@@ -1,0 +1,23 @@
+{
+  "name": "mocha_chai_review",
+  "version": "1.0.0",
+  "description": "Reviewing the basics of Mocha, a testing framework and Chai, an assertion library",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellociel/mocha_chai_review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellociel/mocha_chai_review/issues"
+  },
+  "homepage": "https://github.com/hellociel/mocha_chai_review#readme",
+  "devDependencies": {
+    "chai": "^4.3.1",
+    "mocha": "^8.3.0"
+  }
+}
